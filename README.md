@@ -13,3 +13,9 @@ https://youtu.be/M0Ja_UNz0Rg?si=0EWOjzGpMuP3oZVH
 
 PCB for a handful of darlington transistors (i consider this design and implimention obsolete, but it'll still work)
 ![PCB5](https://github.com/user-attachments/assets/41130e26-77d5-437a-8df3-641cba1a39b2)
+
+Code logic.
+![Flow Diagram](https://github.com/user-attachments/assets/417c773b-0d3f-4e50-975b-ab0e50fba3e8)
+
+Wiring Diagram
+![Claw machine stepper controlv3_15](https://github.com/user-attachments/assets/c9acaf6d-e115-49dc-9e5b-3e45b18082f4)
