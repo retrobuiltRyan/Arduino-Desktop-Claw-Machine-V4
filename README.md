@@ -7,7 +7,7 @@ DIY Full Control Claw Machine
 [Claw Machine v4 BoM.xlsx](https://github.com/user-attachments/files/17935404/Claw.Machine.v4.BoM.xlsx)
 
 
-Some assembly covered here; but a provide a good explaination of function and innner workings. This project is a bit old and I consider some of the design choices a bit obsolete (been 8years since I design this). However, the wood body (laser cut) is still solid design to remix your own mechatronic ideas. Good luck!
+Some assembly covered in the link youtube video; so you'll have to figure out assembly/ electronics/code details on your own (this project is from 2015; i didnt abaondon it, just pivioted to a full-scale machine build). Video provides a good explaination of function and innner workings. This project is a bit old and I consider some of the design choices a bit obsolete (been 8years since I design this). However, the wood body (laser cut) is still solid design to remix your own mechatronic ideas. Good luck!
 
 https://youtu.be/M0Ja_UNz0Rg?si=0EWOjzGpMuP3oZVH
 
